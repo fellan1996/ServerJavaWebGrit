@@ -1,0 +1,20 @@
+{
+  "p1": {
+    "id": 1,
+    "name":"Markus",
+    "age":56,
+    "favoriteColor":"Green"
+  },
+  "p2": {
+    "id": 2,
+    "name":"Micke",
+    "age":37,
+    "favoriteColor":"Blue"
+  },
+  "p3": {
+    "id": 3,
+    "name":"Emma",
+    "age":40,
+    "favoriteColor":"Gul"
+  }
+}
